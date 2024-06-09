@@ -1,0 +1,949 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o (atexit)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-errno.o)
+                              syscalls.o (__errno)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o (exit)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o (__libc_fini_array)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o) (_global_impure_ptr)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o (__libc_init_array)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o (memset)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+                              main.o (puts)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o) (strlen)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o) (__register_exitproc)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o) (__call_exitprocs)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o) (__sinit)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o) (__sfvwrite_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o) (_fwalk)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o) (_malloc_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o) (memchr)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o) (memcpy)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o) (memmove)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mlock.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o) (__malloc_lock)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o) (_realloc_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o) (_sbrk_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o) (__sread)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o) (_write_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o) (__swsetup_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o) (_close_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o) (_fclose_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o) (__sflush_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o) (_free_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o) (_lseek_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o) (__smakebuf_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o) (_read_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o) (errno)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o) (_fstat_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o) (_isatty_r)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_divsi3.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o) (__aeabi_idiv)
+d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_dvmd_tls.o)
+                              d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_divsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+studarr             0x18              main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+SRAM             0x20000000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crti.o
+LOAD d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+LOAD d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o
+LOAD main.o
+LOAD led.o
+LOAD startup.o
+LOAD syscalls.o
+START GROUP
+LOAD d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a
+LOAD d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a
+END GROUP
+START GROUP
+LOAD d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a
+LOAD d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a
+LOAD d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libnosys.a
+END GROUP
+LOAD d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtend.o
+LOAD d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtn.o
+
+.note.gnu.build-id
+                0x08000000       0x24
+ .note.gnu.build-id
+                0x08000000       0x24 linker stubs
+
+.text           0x08000028     0x2508
+ *(.isr_vector)
+ .isr_vector    0x08000028        0x8 startup.o
+                0x08000028                vectors
+ *(.text)
+ .text          0x08000030        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crti.o
+ .text          0x08000030       0xd4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+ .text          0x08000104      0x110 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o
+                0x08000104                _start
+                0x08000104                _mainCRTStartup
+                0x08000168                __change_mode
+                0x080001f4                change_back
+ .text          0x08000214       0x28 main.o
+                0x08000214                main
+ .text          0x0800023c       0x14 led.o
+                0x0800023c                func
+ .text          0x08000250       0x94 startup.o
+                0x08000250                Reset_Handler
+                0x080002dc                Default_Handler
+                0x080002dc                NMI_Handler
+ .text          0x080002e4      0x25c syscalls.o
+                0x080002e4                initialise_monitor_handles
+                0x080002f0                _getpid
+                0x080002fe                _kill
+                0x0800031e                _exit
+                0x08000332                _read
+                0x0800036c                _write
+                0x080003a4                _close
+                0x080003ba                _fstat
+                0x080003d8                _isatty
+                0x080003ec                _lseek
+                0x08000404                _open
+                0x0800041e                _wait
+                0x0800043c                _unlink
+                0x0800045a                _times
+                0x08000470                _stat
+                0x0800048e                _link
+                0x080004ae                _fork
+                0x080004c4                _execve
+                0x080004e6                _sbrk
+ .text          0x08000540       0x14 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+                0x08000540                atexit
+ .text          0x08000554        0xc d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-errno.o)
+                0x08000554                __errno
+ .text          0x08000560       0x28 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+                0x08000560                exit
+ .text          0x08000588       0x3c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+                0x08000588                __libc_fini_array
+ .text          0x080005c4        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+ .text          0x080005c4       0x58 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+                0x080005c4                __libc_init_array
+ .text          0x0800061c       0x9c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+                0x0800061c                memset
+ .text          0x080006b8       0x8c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+                0x080006b8                _puts_r
+                0x0800072c                puts
+ .text          0x08000744       0x68 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+                0x08000744                strlen
+ .text          0x080007ac       0xd8 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+                0x080007ac                __register_exitproc
+ .text          0x08000884      0x104 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+                0x08000884                __call_exitprocs
+ .text          0x08000988      0x24c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+                0x0800098c                _cleanup_r
+                0x08000a98                __sfmoreglue
+                0x08000acc                __sfp
+                0x08000b5c                _cleanup
+                0x08000b78                __sinit
+                0x08000b8c                __sfp_lock_acquire
+                0x08000b90                __sfp_lock_release
+                0x08000b94                __sinit_lock_acquire
+                0x08000b98                __sinit_lock_release
+                0x08000b9c                __fp_lock_all
+                0x08000bb8                __fp_unlock_all
+ .text          0x08000bd4      0x334 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+                0x08000bd4                __sfvwrite_r
+ .text          0x08000f08       0xa4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+                0x08000f08                _fwalk
+                0x08000f54                _fwalk_reent
+ .text          0x08000fac      0x558 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+                0x08000fac                _malloc_r
+ .text          0x08001504       0x84 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+                0x08001504                memchr
+ .text          0x08001588       0x88 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+                0x08001588                memcpy
+ .text          0x08001610       0xa4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+                0x08001610                memmove
+ .text          0x080016b4        0x8 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mlock.o)
+                0x080016b4                __malloc_lock
+                0x080016b8                __malloc_unlock
+ .text          0x080016bc      0x38c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+                0x080016bc                _realloc_r
+ .text          0x08001a48       0x28 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+                0x08001a48                _sbrk_r
+ .text          0x08001a70       0xb0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+                0x08001a70                __sread
+                0x08001a9c                __seofread
+                0x08001aa0                __swrite
+                0x08001ae0                __sseek
+                0x08001b10                __sclose
+ .text          0x08001b20       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+                0x08001b20                _write_r
+ .text          0x08001b4c       0xdc d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+                0x08001b4c                __swsetup_r
+ .text          0x08001c28       0x28 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+                0x08001c28                _close_r
+ .text          0x08001c50       0xb0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+                0x08001c50                _fclose_r
+                0x08001ce4                fclose
+ .text          0x08001d00      0x1c4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+                0x08001d00                __sflush_r
+                0x08001e64                _fflush_r
+                0x08001e94                fflush
+ .text          0x08001ec4      0x264 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+                0x08001ec4                _malloc_trim_r
+                0x08001f68                _free_r
+ .text          0x08002128       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+                0x08002128                _lseek_r
+ .text          0x08002154       0xf4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+                0x08002154                __swhatbuf_r
+                0x080021b8                __smakebuf_r
+ .text          0x08002248       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+                0x08002248                _read_r
+ .text          0x08002274       0xc0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+                0x08002274                cleanup_glue
+                0x08002294                _reclaim_reent
+ .text          0x08002334       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+                0x08002334                _fstat_r
+ .text          0x08002360       0x28 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+                0x08002360                _isatty_r
+ .text          0x08002388      0x150 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_divsi3.o)
+                0x08002388                __divsi3
+                0x08002388                __aeabi_idiv
+                0x080024b8                __aeabi_idivmod
+ .text          0x080024d8        0x4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_dvmd_tls.o)
+                0x080024d8                __aeabi_idiv0
+                0x080024d8                __aeabi_ldiv0
+ .text          0x080024dc        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtend.o
+ .text          0x080024dc        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtn.o
+ *(.text.*)
+ *(.init)
+ .init          0x080024dc        0x4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crti.o
+                0x080024dc                _init
+ .init          0x080024e0        0x8 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtn.o
+ *(.fini)
+ .fini          0x080024e8        0x4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crti.o
+                0x080024e8                _fini
+ .fini          0x080024ec        0x8 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtn.o
+ *fill*         0x080024f4        0x4 
+ .fini.__stub   0x080024f8        0x8 linker stubs
+ *(.rodata)
+ .rodata        0x08002500       0x19 main.o
+                0x08002500                const_v1
+                0x08002504                const_v2
+                0x08002508                const_v3
+ *fill*         0x08002519        0x3 
+ .rodata        0x0800251c        0xd led.o
+ *fill*         0x08002529        0x3 
+ .rodata        0x0800252c        0x4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+                0x0800252c                _global_impure_ptr
+                0x08002530                . = ALIGN (0x4)
+                0x08002530                _etext = .
+                0x08002544                _la_data = LOADADDR (.data)
+
+.glue_7         0x08002530        0x0
+ .glue_7        0x08002530        0x0 linker stubs
+
+.glue_7t        0x08002530        0x0
+ .glue_7t       0x08002530        0x0 linker stubs
+
+.vfp11_veneer   0x08002530        0x0
+ .vfp11_veneer  0x08002530        0x0 linker stubs
+
+.v4_bx          0x08002530        0x0
+ .v4_bx         0x08002530        0x0 linker stubs
+
+.iplt           0x08002530        0x0
+ .iplt          0x08002530        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+
+.eh_frame       0x08002530        0x4
+ .eh_frame      0x08002530        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+ .eh_frame      0x08002530        0x4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtend.o
+
+.ARM.extab      0x08002534        0x0
+ .ARM.extab     0x08002534        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o
+
+.ARM.exidx      0x08002534        0x8
+ .ARM.exidx     0x08002534        0x8 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o
+
+.rodata.str1.4  0x0800253c        0x8
+ .rodata.str1.4
+                0x0800253c        0x2 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+ *fill*         0x0800253e        0x2 
+ .rodata.str1.4
+                0x08002540        0x4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+                                  0x2 (size before relaxing)
+
+.rel.dyn        0x08002544        0x0
+ .rel.iplt      0x08002544        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+
+.data           0x20000000      0x960 load address 0x08002544
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crti.o
+ .data          0x20000000        0x4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+                0x20000000                __dso_handle
+ .data          0x20000004      0x110 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o
+                0x2000000c                __stack_base__
+ .data          0x20000114        0x1 main.o
+                0x20000114                x
+ .data          0x20000115        0x0 led.o
+ .data          0x20000115        0x0 startup.o
+ *fill*         0x20000115        0x3 
+ .data          0x20000118        0x4 syscalls.o
+                0x20000118                environ
+ .data          0x2000011c        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+ .data          0x2000011c        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-errno.o)
+ .data          0x2000011c        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+ .data          0x2000011c        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+ *fill*         0x2000011c        0x4 
+ .data          0x20000120      0x430 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+                0x20000120                _impure_ptr
+ .data          0x20000550        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+ .data          0x20000550        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+ .data          0x20000550        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+ .data          0x20000550        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+ .data          0x20000550        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+ .data          0x20000550        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+ .data          0x20000550        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+ .data          0x20000550        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+ .data          0x20000550        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+ .data          0x20000550      0x410 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+                0x20000550                __malloc_sbrk_base
+                0x20000554                __malloc_trim_threshold
+                0x20000558                __malloc_av_
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mlock.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_divsi3.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_dvmd_tls.o)
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtend.o
+ .data          0x20000960        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtn.o
+ *(.data.*)
+                0x20000960                . = ALIGN (0x4)
+                0x20000960                _edata = .
+
+.init_array     0x20000960        0x4 load address 0x08002ea4
+ .init_array    0x20000960        0x4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+
+.fini_array     0x20000964        0x4 load address 0x08002ea8
+ .fini_array    0x20000964        0x4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+
+.jcr            0x20000968        0x4 load address 0x08002eac
+ .jcr           0x20000968        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+ .jcr           0x20000968        0x4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtend.o
+
+.tm_clone_table
+                0x2000096c        0x0 load address 0x08002eb0
+ .tm_clone_table
+                0x2000096c        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+ .tm_clone_table
+                0x2000096c        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtend.o
+
+.igot.plt       0x2000096c        0x0 load address 0x08002eb0
+ .igot.plt      0x2000096c        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+
+.bss            0x2000096c       0x78 load address 0x08002eb0
+                0x2000096c                _sbss = .
+                0x2000096c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000096c        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crti.o
+ .bss           0x2000096c       0x1c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+ .bss           0x20000988        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o
+ .bss           0x20000988        0x4 main.o
+                0x20000988                a
+ .bss           0x2000098c        0x0 led.o
+ .bss           0x2000098c        0x0 startup.o
+ .bss           0x2000098c        0x8 syscalls.o
+                0x2000098c                __env
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-errno.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+ .bss           0x20000994        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+ .bss           0x20000994       0x34 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+                0x20000994                __malloc_top_pad
+                0x20000998                __malloc_current_mallinfo
+                0x200009c0                __malloc_max_sbrked_mem
+                0x200009c4                __malloc_max_total_mem
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mlock.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_divsi3.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_dvmd_tls.o)
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtend.o
+ .bss           0x200009c8        0x0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtn.o
+ *(.bss.*)
+ *(.COMMON)
+                0x200009c8                . = ALIGN (0x4)
+                0x200009c8                _ebss = .
+                0x200009c8                __bss_end__ = _ebss
+                0x200009c8                . = ALIGN (0x4)
+                0x200009c8                end = .
+                0x200009c8                __end__ = .
+ COMMON         0x200009c8       0x18 main.o
+                0x200009c8                studarr
+ COMMON         0x200009e0        0x4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+                0x200009e0                errno
+OUTPUT(final.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x16 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crti.o
+ .ARM.attributes
+                0x00000016       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+ .ARM.attributes
+                0x00000046       0x1a d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o
+ .ARM.attributes
+                0x00000060       0x33 main.o
+ .ARM.attributes
+                0x00000093       0x33 led.o
+ .ARM.attributes
+                0x000000c6       0x33 startup.o
+ .ARM.attributes
+                0x000000f9       0x33 syscalls.o
+ .ARM.attributes
+                0x0000012c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000015c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000018c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000001bc       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000001ec       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000021c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000024c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000027c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+ .ARM.attributes
+                0x000002ac       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x000002dc       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000030c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000033c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x0000036c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000039c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x000003cc       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000003fc       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x0000042c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000045c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000048c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000004bc       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x000004ec       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000051c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x0000054c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000057c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x000005ac       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x000005dc       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x0000060c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000063c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000066c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000069c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x000006cc       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x000006fc       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000072c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000075c       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x0000078c       0x18 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000007a4       0x16 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000007ba       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtend.o
+ .ARM.attributes
+                0x000007ea       0x16 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtn.o
+
+.comment        0x00000000       0x2d
+ .comment       0x00000000       0x2d d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtbegin.o
+                                 0x2e (size before relaxing)
+ .comment       0x0000002d       0x2e main.o
+ .comment       0x0000002d       0x2e led.o
+ .comment       0x0000002d       0x2e startup.o
+ .comment       0x0000002d       0x2e syscalls.o
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-errno.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mlock.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+ .comment       0x0000002d       0x2e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb/crtend.o
+
+.debug_line     0x00000000     0x7b45
+ .debug_line    0x00000000      0x14f d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o
+ .debug_line    0x0000014f      0x35d d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+ .debug_line    0x000004ac      0x29a d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-errno.o)
+ .debug_line    0x00000746      0x36c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+ .debug_line    0x00000ab2      0x1bd d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+ .debug_line    0x00000c6f      0x27d d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+ .debug_line    0x00000eec      0x1dd d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+ .debug_line    0x000010c9      0x377 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+ .debug_line    0x00001440      0x3b5 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+ .debug_line    0x000017f5      0x377 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+ .debug_line    0x00001b6c      0x395 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+ .debug_line    0x00001f01      0x3b5 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x000022b6      0x48d d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+ .debug_line    0x00002743      0x49c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+ .debug_line    0x00002bdf      0x3c3 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+ .debug_line    0x00002fa2      0x579 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+ .debug_line    0x0000351b      0x38a d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+ .debug_line    0x000038a5      0x388 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+ .debug_line    0x00003c2d      0x382 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+ .debug_line    0x00003faf      0x28d d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mlock.o)
+ .debug_line    0x0000423c      0x3e9 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+ .debug_line    0x00004625      0x365 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+ .debug_line    0x0000498a      0x3b7 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+ .debug_line    0x00004d41      0x363 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+ .debug_line    0x000050a4      0x3e6 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+ .debug_line    0x0000548a      0x367 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+ .debug_line    0x000057f1      0x3a3 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+ .debug_line    0x00005b94      0x44a d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+ .debug_line    0x00005fde      0x442 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+ .debug_line    0x00006420      0x363 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+ .debug_line    0x00006783      0x3f8 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+ .debug_line    0x00006b7b      0x362 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+ .debug_line    0x00006edd      0x383 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+ .debug_line    0x00007260      0x394 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+ .debug_line    0x000075f4      0x368 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+ .debug_line    0x0000795c      0x109 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_divsi3.o)
+ .debug_line    0x00007a65       0xe0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_dvmd_tls.o)
+
+.debug_info     0x00000000    0x15e3d
+ .debug_info    0x00000000      0x1c6 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o
+ .debug_info    0x000001c6      0x903 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+ .debug_info    0x00000ac9      0x8c8 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-errno.o)
+ .debug_info    0x00001391      0x939 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+ .debug_info    0x00001cca       0xf6 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+ .debug_info    0x00001dc0      0x8a1 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+ .debug_info    0x00002661      0x10c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+ .debug_info    0x0000276d      0x917 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+ .debug_info    0x00003084      0xc1f d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+ .debug_info    0x00003ca3      0x8da d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+ .debug_info    0x0000457d      0x94c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+ .debug_info    0x00004ec9      0x972 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000583b      0xfa1 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+ .debug_info    0x000067dc      0xe02 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+ .debug_info    0x000075de      0xbcc d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+ .debug_info    0x000081aa      0xdd4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+ .debug_info    0x00008f7e      0x931 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+ .debug_info    0x000098af      0x930 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+ .debug_info    0x0000a1df      0x926 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+ .debug_info    0x0000ab05      0x8d4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mlock.o)
+ .debug_info    0x0000b3d9      0xdd0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+ .debug_info    0x0000c1a9      0x956 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+ .debug_info    0x0000caff      0xd55 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+ .debug_info    0x0000d854      0x995 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+ .debug_info    0x0000e1e9      0xb46 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+ .debug_info    0x0000ed2f      0x94c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+ .debug_info    0x0000f67b      0xc08 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+ .debug_info    0x00010283      0xc9d d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+ .debug_info    0x00010f20      0xc93 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+ .debug_info    0x00011bb3      0x978 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+ .debug_info    0x0001252b      0xde2 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+ .debug_info    0x0001330d      0x98e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+ .debug_info    0x00013c9b      0xa11 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+ .debug_info    0x000146ac      0xafb d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+ .debug_info    0x000151a7      0x94c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+ .debug_info    0x00015af3      0x1a5 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_divsi3.o)
+ .debug_info    0x00015c98      0x1a5 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_dvmd_tls.o)
+
+.debug_abbrev   0x00000000     0x4719
+ .debug_abbrev  0x00000000       0x14 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o
+ .debug_abbrev  0x00000014      0x1f1 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x00000205      0x1a3 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-errno.o)
+ .debug_abbrev  0x000003a8      0x1e5 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+ .debug_abbrev  0x0000058d       0xb8 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+ .debug_abbrev  0x00000645      0x187 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+ .debug_abbrev  0x000007cc       0xb8 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+ .debug_abbrev  0x00000884      0x1cb d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+ .debug_abbrev  0x00000a4f      0x26b d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+ .debug_abbrev  0x00000cba      0x1ad d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+ .debug_abbrev  0x00000e67      0x21e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x00001085      0x22e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x000012b3      0x38f d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+ .debug_abbrev  0x00001642      0x264 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x000018a6      0x20a d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+ .debug_abbrev  0x00001ab0      0x2b9 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x00001d69      0x1d0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+ .debug_abbrev  0x00001f39      0x1d7 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x00002110      0x1d0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x000022e0      0x1c8 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mlock.o)
+ .debug_abbrev  0x000024a8      0x250 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x000026f8      0x20a d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x00002902      0x252 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+ .debug_abbrev  0x00002b54      0x20a d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+ .debug_abbrev  0x00002d5e      0x240 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+ .debug_abbrev  0x00002f9e      0x205 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+ .debug_abbrev  0x000031a3      0x2b7 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+ .debug_abbrev  0x0000345a      0x2c1 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+ .debug_abbrev  0x0000371b      0x26a d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+ .debug_abbrev  0x00003985      0x214 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+ .debug_abbrev  0x00003b99      0x2dd d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+ .debug_abbrev  0x00003e76      0x205 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+ .debug_abbrev  0x0000407b      0x25d d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+ .debug_abbrev  0x000042d8      0x214 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+ .debug_abbrev  0x000044ec      0x205 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+ .debug_abbrev  0x000046f1       0x14 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_divsi3.o)
+ .debug_abbrev  0x00004705       0x14 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_dvmd_tls.o)
+
+.debug_aranges  0x00000000      0x498
+ .debug_aranges
+                0x00000000       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb/crt0.o
+ .debug_aranges
+                0x00000020       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x00000040       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-errno.o)
+ .debug_aranges
+                0x00000060       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000080       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+ .debug_aranges
+                0x000000a0       0x18 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x000000b8       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+ .debug_aranges
+                0x000000d8       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x000000f8       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+ .debug_aranges
+                0x00000118       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+ .debug_aranges
+                0x00000138       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x00000158       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000178       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+ .debug_aranges
+                0x00000198       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x000001b8       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x000001d8       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x000001f8       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+ .debug_aranges
+                0x00000218       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+ .debug_aranges
+                0x00000238       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x00000258       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mlock.o)
+ .debug_aranges
+                0x00000278       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x00000298       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x000002b8       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+ .debug_aranges
+                0x000002d8       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+ .debug_aranges
+                0x000002f8       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x00000318       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+ .debug_aranges
+                0x00000338       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+ .debug_aranges
+                0x00000358       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+ .debug_aranges
+                0x00000378       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x00000398       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x000003b8       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x000003d8       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+ .debug_aranges
+                0x000003f8       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+ .debug_aranges
+                0x00000418       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x00000438       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+ .debug_aranges
+                0x00000458       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x00000478       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_dvmd_tls.o)
+
+.debug_loc      0x00000000     0x4a22
+ .debug_loc     0x00000000       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+ .debug_loc     0x0000002c       0x1e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+ .debug_loc     0x0000004a       0x3e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+ .debug_loc     0x00000088       0x84 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+ .debug_loc     0x0000010c      0x1a4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+ .debug_loc     0x000002b0      0x12c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+ .debug_loc     0x000003dc       0xbe d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+ .debug_loc     0x0000049a      0x1c5 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+ .debug_loc     0x0000065f      0x1d3 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x00000832      0x323 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+ .debug_loc     0x00000b55      0x5e3 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+ .debug_loc     0x00001138      0x19f d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+ .debug_loc     0x000012d7      0xce5 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+ .debug_loc     0x00001fbc      0x176 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+ .debug_loc     0x00002132      0x2e7 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+ .debug_loc     0x00002419      0x3c6 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+ .debug_loc     0x000027df      0xf21 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+ .debug_loc     0x00003700       0x58 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+ .debug_loc     0x00003758      0x302 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+ .debug_loc     0x00003a5a       0xb0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+ .debug_loc     0x00003b0a       0xa2 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+ .debug_loc     0x00003bac       0x58 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+ .debug_loc     0x00003c04      0x175 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+ .debug_loc     0x00003d79      0x2d4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+ .debug_loc     0x0000404d      0x500 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+ .debug_loc     0x0000454d       0xb0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+ .debug_loc     0x000045fd      0x19d d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+ .debug_loc     0x0000479a       0xb0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+ .debug_loc     0x0000484a       0xfc d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+ .debug_loc     0x00004946       0x84 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+ .debug_loc     0x000049ca       0x58 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+
+.debug_str      0x00000000     0x26e4
+ .debug_str     0x00000000      0x52b d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+                                0x5c0 (size before relaxing)
+ .debug_str     0x0000052b       0xda d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-errno.o)
+                                0x588 (size before relaxing)
+ .debug_str     0x00000605       0xfd d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+                                0x5c1 (size before relaxing)
+ .debug_str     0x00000702       0xf5 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+                                0x1db (size before relaxing)
+ .debug_str     0x000007f7       0xc8 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-impure.o)
+                                0x576 (size before relaxing)
+ .debug_str     0x000008bf      0x11f d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+                                0x205 (size before relaxing)
+ .debug_str     0x000009de       0xd8 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+                                0x58d (size before relaxing)
+ .debug_str     0x00000ab6      0x309 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+                                0x80b (size before relaxing)
+ .debug_str     0x00000dbf       0xc7 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+                                0x596 (size before relaxing)
+ .debug_str     0x00000e86       0xcd d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+                                0x5da (size before relaxing)
+ .debug_str     0x00000f53       0xd7 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+                                0x5b8 (size before relaxing)
+ .debug_str     0x0000102a      0x1d2 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+                                0x8e4 (size before relaxing)
+ .debug_str     0x000011fc      0x11a d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+                                0x859 (size before relaxing)
+ .debug_str     0x00001316       0xca d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+                                0x7cc (size before relaxing)
+ .debug_str     0x000013e0      0x38d d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+                                0x8be (size before relaxing)
+ .debug_str     0x0000176d       0xe1 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+                                0x59d (size before relaxing)
+ .debug_str     0x0000184e       0xee d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+                                0x5aa (size before relaxing)
+ .debug_str     0x0000193c       0xc7 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+                                0x5ac (size before relaxing)
+ .debug_str     0x00001a03       0xd1 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mlock.o)
+                                0x59d (size before relaxing)
+ .debug_str     0x00001ad4       0x4e d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+                                0x875 (size before relaxing)
+ .debug_str     0x00001b22       0xd0 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+                                0x5b9 (size before relaxing)
+ .debug_str     0x00001bf2      0x11b d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+                                0x820 (size before relaxing)
+ .debug_str     0x00001d0d       0xbc d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+                                0x5b6 (size before relaxing)
+ .debug_str     0x00001dc9       0xc9 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+                                0x7da (size before relaxing)
+ .debug_str     0x00001e92       0xbc d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+                                0x5a6 (size before relaxing)
+ .debug_str     0x00001f4e       0xdd d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+                                0x7f1 (size before relaxing)
+ .debug_str     0x0000202b       0xd4 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+                                0x808 (size before relaxing)
+ .debug_str     0x000020ff       0x34 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+                                0x837 (size before relaxing)
+ .debug_str     0x00002133       0xc3 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+                                0x5b4 (size before relaxing)
+ .debug_str     0x000021f6      0x1be d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+                                0x8ee (size before relaxing)
+ .debug_str     0x000023b4       0xbb d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+                                0x5b4 (size before relaxing)
+ .debug_str     0x0000246f       0xe7 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+                                0x5b2 (size before relaxing)
+ .debug_str     0x00002556       0xc9 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+                                0x6b5 (size before relaxing)
+ .debug_str     0x0000261f       0xc5 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+                                0x5b0 (size before relaxing)
+
+.debug_frame    0x00000000      0x898
+ .debug_frame   0x00000000       0x28 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000028       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-errno.o)
+ .debug_frame   0x00000048       0x28 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000070       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fini.o)
+ .debug_frame   0x0000009c       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-init.o)
+ .debug_frame   0x000000c8       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memset.o)
+ .debug_frame   0x000000f8       0x44 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+ .debug_frame   0x0000013c       0x28 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-strlen-stub.o)
+ .debug_frame   0x00000164       0x3c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x000001a0       0x3c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000001dc      0x14c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+ .debug_frame   0x00000328       0x3c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x00000364       0x5c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fwalk.o)
+ .debug_frame   0x000003c0       0x3c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x000003fc       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00000428       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000458       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000488       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mlock.o)
+ .debug_frame   0x000004b8       0x3c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x000004f4       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000520       0x90 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-stdio.o)
+ .debug_frame   0x000005b0       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+ .debug_frame   0x000005dc       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+ .debug_frame   0x00000608       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+ .debug_frame   0x00000634       0x44 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+ .debug_frame   0x00000678       0x68 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+ .debug_frame   0x000006e0       0x50 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-freer.o)
+ .debug_frame   0x00000730       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+ .debug_frame   0x0000075c       0x50 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-makebuf.o)
+ .debug_frame   0x000007ac       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+ .debug_frame   0x000007d8       0x48 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reent.o)
+ .debug_frame   0x00000820       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+ .debug_frame   0x0000084c       0x2c d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
+ .debug_frame   0x00000878       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../lib/gcc/arm-eabi/6.3.1/thumb\libgcc.a(_divsi3.o)
+
+.debug_ranges   0x00000000      0x320
+ .debug_ranges  0x00000000       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-puts.o)
+ .debug_ranges  0x00000020       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x00000050       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-findfp.o)
+ .debug_ranges  0x00000080       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fvwrite.o)
+ .debug_ranges  0x000000a0       0x38 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-mallocr.o)
+ .debug_ranges  0x000000d8      0x110 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-reallocr.o)
+ .debug_ranges  0x000001e8       0x18 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-writer.o)
+ .debug_ranges  0x00000200       0x28 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-wsetup.o)
+ .debug_ranges  0x00000228       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-closer.o)
+ .debug_ranges  0x00000248       0x30 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fclose.o)
+ .debug_ranges  0x00000278       0x38 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fflush.o)
+ .debug_ranges  0x000002b0       0x18 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-lseekr.o)
+ .debug_ranges  0x000002c8       0x18 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-readr.o)
+ .debug_ranges  0x000002e0       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-fstatr.o)
+ .debug_ranges  0x00000300       0x20 d:/git/tools/compiler/gcc-linaro-6.3.1-2017.05-i686-mingw32_arm-eabi/bin/../arm-eabi/libc/usr/lib/thumb\libc.a(lib_a-isattyr.o)
